@@ -1,7 +1,7 @@
 {
-  "name": "lowfirmmanagementsystem",
+  "name": "NodeTemplateProjectHTML",
   "version": "1.0.0",
-  "description": "Sistema de gestión de estudio de abogados",
+  "description": "NodeTemplateProjectHTML",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avilaqdaniel/LowFirmManagementSystem.git"
+    "url": "git+https://github.com/avilaqdaniel/NodeTemplateProjectHTML.git.git"
   },
   "author": "Daniel Avila Quispe",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avilaqdaniel/LowFirmManagementSystem/issues"
+    "url": "https://github.com/avilaqdaniel/NodeTemplateProjectHTML.git/issues"
   },
-  "homepage": "https://github.com/avilaqdaniel/LowFirmManagementSystem#readme",
+  "homepage": "https://github.com/avilaqdaniel/NodeTemplateProjectHTML.git#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
